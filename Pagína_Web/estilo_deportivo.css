@@ -1,0 +1,223 @@
+body{
+	background-image: url("fondo.jpg");
+	background-repeat: repeat-y;
+}
+div#contenido{
+	height: auto;
+	width: auto;
+	display: flex;
+}
+div#logo{
+	height: 0%;
+	width: 15%;
+	background-color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+img#lo{
+	height: 0%;
+	width: 65.1%;
+}
+div#cabecera{
+	background-color: white;
+	height: 0%;
+	width: 70%;
+	display: flex;
+	justify-content: center;
+}
+h2#titulo{
+	font-family: Algerian;
+	font-size: 250%;
+	text-align: center;
+	margin: 2% 0% 0% 12%;
+}
+h3#op1{
+	text-align: center;
+	margin: 10% 0% 1.9% -55%;
+}
+h3#op2{
+	text-align: center;
+	margin: 10% 0% 0% 20%;
+}
+h3#op3{
+	text-align: center;
+	margin: 10% 0% 0% 20%;
+}
+img#korea{
+	height: 0%;
+	width: 15%;
+}
+div#titulo1{
+	background-color: rgba(255, 255, 255, 0.8);
+	height: 0%;
+	width: 99.2%;
+	margin: 13% 0% 0% -100%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #000000;
+}
+h3#t1{
+	font-family: Algerian;
+	text-align: center;
+}
+img#dep{
+	height: 0%;
+	width: 35%;
+	margin: 20% 0% 0% -97.3%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #FFFFFF;
+}
+div#direc{
+	background-color: rgba(255, 255, 255, 0.8);
+	height: 0%;
+	width: 55%;
+	margin: 20% 0% 0% 4%;
+	justify-content: center;
+	align-items: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #000000;
+}
+p#info{
+	font-family: Arial;
+	font-size: 110%;
+	text-align: center;
+	margin: 4.5% 0% 0% 0%;
+}
+h3#h{
+	text-align: center;
+	font-family: Arial;
+}
+table#horarios{
+	border-collapse: collapse;
+	margin: 0% 0% 4.5% 23%;
+}
+tr#encabezados{
+	border:blue 3px solid;
+	font-family: Arial;
+	text-align: center;
+}
+tr#horas{
+	border:red 3px solid;
+	font-family: Arial;
+}
+div#titulo2{
+	background-color: rgba(255, 255, 255, 0.8);
+	height: 0%;
+	width: 99.2%;
+	margin: 43% 0% 0% -98%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #000000;
+}
+h3#t2{
+	font-family: Algerian;
+	text-align: center;
+}
+div#salon{
+	background-color: rgba(255, 255, 255, 0.8);
+	margin: 50% 0% 0% -93%;
+	height: 0%;
+	width: 37%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #000000;
+}
+img#fs{
+	height: 0%;
+	width: 100%;
+	border-radius: 77px 77px 77px 77px;
+	-moz-border-radius: 77px 77px 77px 77px;
+	-webkit-border-radius: 77px 77px 77px 77px;
+}
+h3#st1{
+	text-align: center;
+}
+p#desc{
+	font-family: Arial;
+	margin: 9.3%;
+	text-align: justify;
+}
+div#clases{
+	background-color: rgba(255, 255, 255, 0.8);
+	margin: 50% 0% 0% 10%;
+	height: 0%;
+	width: 35%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #000000;
+}
+img#fc{
+	height: 0%;
+	width: 100%;
+	border-radius: 77px 77px 77px 77px;
+	-moz-border-radius: 77px 77px 77px 77px;
+	-webkit-border-radius: 77px 77px 77px 77px;
+}
+h3#st2{
+	text-align: center;
+}
+p#desc1{
+	font-family: Arial;
+	margin: 6%;
+	text-align: justify;
+}
+div#titulo3{
+	background-color: rgba(255, 255, 255, 0.8);
+	height: 0%;
+	width: 99.2%;
+	margin: 87% 0% 0% -99%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #000000;
+}
+h3#t3{
+	font-family: Algerian;
+	text-align: center;
+}
+img#f1{
+	height: 0%;
+	width: 30%;
+	margin: 94% 0% 0% -89%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #FFFFFF;
+}
+img#f2{
+	height: 0%;
+	width: 29.3%;	
+	margin: 94% 0% 0% 2%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #FFFFFF;
+}
+img#f3{
+	height: 0%;
+	width: 32.3%;
+	margin: 94% 0% 0% 2%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #FFFFFF;
+}

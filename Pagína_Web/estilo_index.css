@@ -1,0 +1,125 @@
+body{
+	background-image: url("fondo.jpg");
+	background-repeat: repeat-y;
+}
+div#contenido{
+	height: auto;
+	width: auto;
+	display: flex;
+}
+div#logo{
+	height: 0%;
+	width: 15%;
+	background-color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+img#lo{
+	height: 0%;
+	width: 65.1%;
+}
+div#cabecera{
+	background-color: white;
+	height: 0%;
+	width: 70%;
+	display: flex;
+	justify-content: center;
+}
+h2#titulo{
+	font-family: Algerian;
+	font-size: 250%;
+	text-align: center;
+	margin: 2% 0% 0% 20%;
+}
+h3#op1{
+	text-align: center;
+	margin: 10% 0% 1.9% -60%;
+}
+h3#op2{
+	text-align: center;
+	margin: 10% 0% 0% 20%;
+}
+h3#op3{
+	text-align: center;
+	margin: 10% 0% 0% 20%;
+}
+img#korea{
+	height: 0%;
+	width: 15%;
+}
+div#prof{
+	background-color: rgba(255, 255, 255, 0.8);
+	height: 0%;
+	width: 20%;
+	justify-content: center;
+	align-items: center;
+	margin: 17% 0% 0% -96%;
+	border-radius: 70px 70px 70px 70px;
+	-moz-border-radius: 70px 70px 70px 70px;
+	-webkit-border-radius: 70px 70px 70px 70px;
+	border: 5px solid #000000;
+}
+h3#clases{
+	text-align: center;
+}
+dl#lp{
+	margin: 0% 0% 6% 15%;
+}
+img#abi{
+	height: 30%;
+	width: 30%;
+	margin: 13% 0% 0% 10%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #FFFFFF;
+}
+div#telefonos{
+	background-color: rgba(255, 255, 255, 0.8);
+	height: 0%;
+	width: 20%;
+	justify-content: center;
+	align-items: center;
+	margin: 17% 0% 0% 10%;
+	border-radius: 70px 70px 70px 70px;
+	-moz-border-radius: 70px 70px 70px 70px;
+	-webkit-border-radius: 70px 70px 70px 70px;
+	border: 5px solid #000000;
+}
+h3#te{
+	text-align: center;
+}
+dl#lt{
+	margin: 0% 0% 6% 25%;
+}
+img#f1{
+	height: 30%;
+	width: 30%;
+	margin: 37% 0% 0% -91%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #FFFFFF;
+}
+div#descripcion{
+	background-color: rgba(255, 255, 255, 0.8);
+	height: 30%;
+	width: 50%;
+	justify-content: center;
+	align-items: center;
+	margin: 37% 0% 0% 8%;
+	border-radius: 70px 70px 70px 70px;
+	-moz-border-radius: 70px 70px 70px 70px;
+	-webkit-border-radius: 70px 70px 70px 70px;
+	border: 5px solid #000000;
+}
+h3#t1{
+	text-align: center;
+}
+p#parrafo{
+	text-align: center;
+	font-family: Arial;
+	font-size: 107%;
+	margin: 0% 5% 2.9% 5%;
+}
