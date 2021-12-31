@@ -7,46 +7,46 @@ div#contenido{
 	width: auto;
 	display: flex;
 }
-div#logo{
-	height: 0%;
-	width: 15%;
-	background-color: white;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-}
-img#lo{
-	height: 0%;
-	width: 65.1%;
-}
 div#cabecera{
 	background-color: white;
 	height: 0%;
-	width: 70%;
+	width: 100%;
 	display: flex;
 	justify-content: center;
+	align-items: center;
+}
+img#lo{
+	height: 0%;
+	width: 10%;
+	margin-left: 5%;
 }
 h2#titulo{
 	font-family: Algerian;
 	font-size: 250%;
 	text-align: center;
-	margin: 2% 0% 0% 12%;
+	margin: 0% 0% 0% 18%;
+	width: auto;
+	height: 100%;
 }
 h3#op1{
 	text-align: center;
-	margin: 10% 0% 1.9% -55%;
+	margin: 6% 0% 0% -38%;
+	height: 100%;
 }
 h3#op2{
 	text-align: center;
-	margin: 10% 0% 0% 20%;
+	margin: 6% 0% 0% 14%;
+	height: 100%;
 }
 h3#op3{
 	text-align: center;
-	margin: 10% 0% 0% 20%;
+	margin: 6% 0% 0% 14%;
+	height: 100%;
 }
 img#korea{
 	height: 0%;
-	width: 15%;
+	width: 15.5%;
+	margin-left: 6%;
 }
 div#arch1{
 	height: 0%;
