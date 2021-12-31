@@ -123,3 +123,29 @@ p#parrafo{
 	font-size: 107%;
 	margin: 0% 5% 2.9% 5%;
 }
+@media screen and (max-width: 1100px){
+	h3#op1{
+		margin-top: 15%;
+	}
+	h3#op2{
+		margin-top: 15%;
+	}
+	h3#op3{
+		margin-top: 15%;
+	}
+	div#prof{
+		margin-top: 22%;
+	}
+	img#abi{
+		margin-top: 22%;
+	}
+	div#telefonos{
+		margin-top: 22%;
+	}
+	img#f1{
+		margin-top: 44%;
+	}
+	div#descripcion{
+		margin-top: 44%;
+	}
+}
