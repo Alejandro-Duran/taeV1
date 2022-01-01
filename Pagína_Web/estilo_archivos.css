@@ -141,3 +141,29 @@ img#im3{
 	-moz-border-radius: 80px 80px 80px 80px;
 	-webkit-border-radius: 80px 80px 80px 80px;
 }
+@media screen and (max-width: 1100px){
+	h2#titulo{
+		margin-top: -4%;
+	}
+	h3#op1{
+		margin-top: 13%;
+		margin-bottom: 2%; 
+	}
+	h3#op2{
+		margin-top: 13%;
+		margin-bottom: 2%; 
+	}
+	h3#op3{
+		margin-top: 13%;
+		margin-bottom: 2%; 
+	}
+	div#arch1{
+		margin-top: 22%;
+	}
+	div#arch2{
+		margin-top: 22%;
+	}
+	div#arch3{
+		margin-top: 22%;
+	}
+}
