@@ -140,13 +140,15 @@ p#parrafo{
 		margin-bottom: 2%; 
 	}
 	div#prof{
-		margin-top: 22%;
+		margin-top: 23%;
 	}
 	img#abi{
 		margin-top: 22%;
 	}
 	div#telefonos{
-		margin-top: 22%;
+		margin-top: 24.5%;
+		width: 22%;
+		margin-left: 8%;
 	}
 	img#f1{
 		margin-top: 50%;
