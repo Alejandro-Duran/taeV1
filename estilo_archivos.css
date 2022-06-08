@@ -141,6 +141,64 @@ img#im3{
 	-moz-border-radius: 80px 80px 80px 80px;
 	-webkit-border-radius: 80px 80px 80px 80px;
 }
+div#arch4{
+	height: 0%;
+	width: 30%;
+	background-color: rgba(255, 255, 255, 0.8);
+	margin: 55% 0% 0% -80%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #000000;
+}
+div#arch4:hover{
+	height: 0%;
+	width: 30%;
+	background-color: rgba(255, 255, 255, 0.8);
+	margin: 55% 0% 0% -80%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #1100ff;
+}
+img#im4{
+	height: 0%;
+	width: 80%;
+	margin: 5% 0% 0% 10%;
+}
+div#arch5{
+	height: 0%;
+	width: 35%;
+	background-color: rgba(255, 255, 255, 0.8);
+	margin: 57% 0% 0% 9%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #000000;
+}
+div#arch5:hover{
+	height: 0%;
+	width: 35%;
+	background-color: rgba(255, 255, 255, 0.8);
+	margin: 57% 0% 0% 9%;
+	align-items: center;
+	justify-content: center;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	border: 5px solid #ff0000;
+}
+img#im5{
+	height: 0%;
+	width: 80%;
+	margin: 5% 0% 0% 10%;
+}
 @media screen and (max-width: 1100px){
 	h2#titulo{
 		margin-top: -4%;
@@ -166,6 +224,12 @@ img#im3{
 	div#arch3{
 		margin-top: 22%;
 	}
+	div#arch4{
+		margin-top: 64%;
+	}
+	div#arch5{
+		margin-top: 66%;
+	}
 	div#arch1:hover{
 		margin-top: 22%;
 		border: 5px solid #ff0000;
@@ -176,6 +240,14 @@ img#im3{
 	}
 	div#arch3:hover{
 		margin-top: 22%;
+		border: 5px solid #ff0000;
+	}
+	div#arch4:hover{
+		margin-top: 64%;
+		border: 5px solid #1100ff;
+	}
+	div#arch5:hover{
+		margin-top: 66%;
 		border: 5px solid #ff0000;
 	}
 }
