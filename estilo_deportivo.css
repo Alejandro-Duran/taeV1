@@ -165,7 +165,8 @@ div#clases{
 }
 img#fc{
 	height: 0%;
-	width: 100%;
+	width: 74%;
+	margin-left: 13%;
 	border-radius: 77px 77px 77px 77px;
 	-moz-border-radius: 77px 77px 77px 77px;
 	-webkit-border-radius: 77px 77px 77px 77px;
@@ -208,6 +209,33 @@ img#f3{
 	-moz-border-radius: 53px 53px 53px 53px;
 	-webkit-border-radius: 53px 53px 53px 53px;
 	border: 5px solid #FFFFFF;
+}
+img#f4{
+	height: 0%;
+	width: 30%;
+	margin: 108% 0% 0% -98%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #000000;
+}
+img#f5{
+	height: 0%;
+	width: 29.3%;	
+	margin: 108% 0% 0% 2%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #000000;
+}
+img#f6{
+	height: 0%;
+	width: 29%;
+	margin: 108% 0% 0% 4%;
+	border-radius: 53px 53px 53px 53px;
+	-moz-border-radius: 53px 53px 53px 53px;
+	-webkit-border-radius: 53px 53px 53px 53px;
+	border: 5px solid #000000;
 }
 @media screen and (max-width: 1100px){
 	h2#titulo{
@@ -258,5 +286,16 @@ img#f3{
 	}
 	img#f3{
 		margin-top: 108%;
+	}
+
+	img#f4{
+		margin-left: -99%;
+		margin-top: 129%;
+	}
+	img#f5{
+		margin-top: 129%;
+	}
+	img#f6{
+		margin-top: 129%;
 	}
 }
