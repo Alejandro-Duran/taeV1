@@ -24,24 +24,24 @@ h2#titulo{
 	font-family: Algerian;
 	font-size: 250%;
 	text-align: center;
-	margin: 0% 0% 0% 18%;
+	margin: 0% 0% 5% 15%;
 	width: auto;
 	height: 100%;
 }
 h3#op1{
 	text-align: center;
 	margin: 6% 0% 0% -39%;
-	height: 100%;
+	font-size: 130%;
 }
 h3#op2{
 	text-align: center;
 	margin: 6% 0% 0% 10%;
-	height: 100%;
+	font-size: 130%;
 }
 h3#op3{
 	text-align: center;
 	margin: 6% 0% 0% 10%;
-	height: 100%;
+	font-size: 130%;
 }
 img#korea{
 	height: 0%;
