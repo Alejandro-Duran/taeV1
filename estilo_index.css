@@ -125,35 +125,52 @@ p#parrafo{
 }
 @media screen and (max-width: 1100px){
 	h2#titulo{
-		margin-top: -4%;
+		margin-top: -16%;
+		margin-right: -3%;
+		margin-left: 0%;
+		font-size: 210%;
+		width: 100%;
 	}
 	h3#op1{
-		margin-top: 13%;
-		margin-bottom: 2%; 
+		margin-top: 0%;
+		margin-right: -50%;
+		font-size: 180%;
+		
 	}
 	h3#op2{
 		margin-top: 13%;
-		margin-bottom: 2%; 
+		margin-right: -81%;
+		font-size: 180%;
+		width: 100%; 
 	}
 	h3#op3{
-		margin-top: 13%;
-		margin-bottom: 2%; 
+		margin-top: 30%;
+		margin-right: -7%;
+		margin-bottom: 3%;
+		font-size: 180%;
+		width: 100%; 
 	}
 	div#prof{
-		margin-top: 23%;
+		margin: 40% 0% 0% -86%;
+		width: 35%;
+		font-size: 150%;
 	}
 	img#abi{
-		margin-top: 22%;
+		margin: 67% 0% 0% -35%;
+		width: 70%;
 	}
 	div#telefonos{
-		margin-top: 24.5%;
-		width: 22%;
-		margin-left: 8%;
+		margin: 40% 0% 0% -35%;
+		width: 35%;
+		font-size: 150%;
 	}
 	img#f1{
-		margin-top: 50%;
+		margin: 169.5% 0% 0% -72%;
+		width: 70%;
 	}
 	div#descripcion{
-		margin-top: 44%;
+		margin: 118% 0% 0% -71%;
+		width: 70%;
+		font-size: 150%;
 	}
 }
