@@ -179,10 +179,6 @@ p#desc1{
 	margin: 6%;
 	text-align: justify;
 }
-h3#t3{
-	font-family: Algerian;
-	text-align: center;
-}
 img#f1{
 	height: 0%;
 	width: 30%;
@@ -239,63 +235,113 @@ img#f6{
 }
 @media screen and (max-width: 1100px){
 	h2#titulo{
-		margin-top: -4%;
+		margin-top: -16%;
+		margin-right: -3%;
+		margin-left: 0%;
+		font-size: 210%;
+		width: 100%;
 	}
 	h3#op1{
-		margin-top: 13%;
-		margin-bottom: 2%; 
+		margin-top: 0%;
+		margin-right: -53%;
+		font-size: 180%; 
 	}
 	h3#op2{
 		margin-top: 13%;
-		margin-bottom: 2%; 
+		margin-right: -85%;
+		font-size: 180%;
+		width: 100%; 
 	}
 	h3#op3{
-		margin-top: 13%;
-		margin-bottom: 2%; 
+		margin-top: 30%;
+		margin-right: -7%;
+		margin-bottom: 3%;
+		font-size: 180%;
+		width: 100%; 
 	}
 	div#titulo1{
-		margin-top: 22%;
+		margin-top: 38%;
+		font-size: 120%;
 	}
 	img#dep{
-		margin-top: 33.5%;
+		margin: 85.5% 0% 0% -85%;
+		width: 70%;
 	}
 	div#direc{
-		width: 60%;
-		margin: 31% 0% 0% 1%;
+		width: 100%;
+		margin: 47.5% 0% 0% -87%;
+	}
+	p#info{
+		font-size: 150%;
+	}
+	h3#h{
+		font-size: 150%;
 	}
 	table#horarios{
-		margin-left: 14%;
+		margin-left: 20%;
+	}
+	tr#encabezados{
+		font-size: 150%;
+	}	
+	tr#horas{
+		font-size: 150%;
 	}
 	div#titulo2{
-		margin-top: 60%;
+		margin-top: 128%;
 		margin-left: -100%;
+		font-size: 120%;
 	}
 	div#salon{
-		width: 38%;
-		margin-top: 69%;
+		width: 98%;
+		margin: 138% 0% 0% -100%;
+	}
+	h3#st1{
+		font-size: 150%;
+	}
+	p#desc{
+		font-size: 150%;
 	}
 	div#clases{
-		margin-top: 69%;
+		margin: 220% 0% 0% -99%;
+		width: 98%;
+	}
+	img#fc{
+		margin-left: 0%;
+		width: 100%;
+	}
+	h3#st2{
+		font-size: 150%;
+	}
+	p#desc1{
+		font-size: 150%;
 	}
 	img#f1{
-		margin-left: -91%;
-		margin-top: 108%;
+		margin-left: -97%;
+		margin-top: 330%;
+		width: 45%;
 	}
 	img#f2{
-		margin-top: 108%;
+		margin-top: 330%;
+		width: 45%;
 	}
 	img#f3{
-		margin-top: 108%;
+		margin-top: 363%;
+		margin-left: -94%;
+		width: 45%;
 	}
 
 	img#f4{
-		margin-left: -99%;
-		margin-top: 129%;
+		margin: 363% 0% 0% 5%;
+		width: 37%;
 	}
 	img#f5{
-		margin-top: 129%;
+		margin-left: -90%;
+		margin-top: 393%;
+		width: 45%;
 	}
 	img#f6{
-		margin-top: 129%;
+		margin-top: 393%;
+		margin-left: 2%;
+		width: 45%;
 	}
 }
