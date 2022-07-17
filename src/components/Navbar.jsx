@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-sm navbar-light bg-white">
             <div className="container-fluid">
-                <div className="row">
+                <div className="row align-items-center">
                     <div className="col-2">
                         <img src="../src/assets/imgs/logo.png" alt="Logo" width='65%'/>
                     </div>

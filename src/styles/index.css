@@ -2,3 +2,14 @@ body{
 	background-image: url('/src/assets/imgs/fondo.jpg');
 	background-repeat: repeat-y;
 }
+
+#prof{
+	background-color: rgba(255, 255, 255, 0.8);
+	/*height: 0%;
+	width: 20%;
+	justify-content: center;
+	align-items: center;
+	margin: 17% 0% 0% -96%;
+	border-radius: 70px 70px 70px 70px;
+	border: 5px solid #000000;*/
+}

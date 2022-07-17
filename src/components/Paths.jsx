@@ -1,13 +1,13 @@
 import { Routes, Route, Outlet, Navigate } from 'react-router-dom'
 import Navbar from './Navbar'
-import App from './App'
+import Home from './Home'
 
 const Paths = () => {
   return (
     <>
     <Navbar />
     <Routes>
-        <Route path='/' element={<App />} />
+        <Route path='/' element={<Home />} />
     </Routes>
     </>
   )
